@@ -1,0 +1,9 @@
+[submodule "fnp-reporter"]
+	path = fnp-reporter
+	url = https://github.com/Fake-News-Profiling/fnp-reporter
+[submodule "fnp-server"]
+	path = fnp-server
+	url = https://github.com/Fake-News-Profiling/fnp-server
+[submodule "fnp-models"]
+	path = fnp-models
+	url = https://github.com/Fake-News-Profiling/fnp-models
